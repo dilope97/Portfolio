@@ -1,6 +1,6 @@
 # Portfolio
 
-# Project: Medicine Educational App with Unity**
+# Project: Medicine Educational App with Unity
 
 Before I went to University I did a two year course on videogame development as a whole. This gave me the opportunity to do a 3 moth long internship at Plymouth, ENgland. I worked at the University of Medicine and I worked on two projects simultaneously building an educational app using Unity and revising and fixing the code of a second VR project made on Unity as well. I cannot show any of the projects because the university is the owner of them and I sign an NDA about it but I am allowed to talk about them.
 
