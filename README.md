@@ -38,4 +38,5 @@ I built the main character controller in the early stages of development. Buildi
 
 I designed all the levels of the game as well as all the enemies and tested and worked closely with the main programmer of the tool used to build the tile-based map. The isometric view and collisions were a headache to approach with this tile-based system but it ended up working. I also built the majority of the levels myself using that same tool from whiteboxing to end product.
 
+![](Avani.jpg)
 
