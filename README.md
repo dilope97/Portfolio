@@ -34,9 +34,10 @@ In the second year at Digipen I worked on the game called Avani. This has been t
 
 I built the main character controller in the early stages of development. Building the base for combat and movement that was later completed by other programmers. I also had to integrate the flying sword that would follow the player, its movement and attacks. In the later stages of development I worked with another programmer designing the attacking feeling that the main character had but couldn't program it myself because I was too busy building and fixing the levels.
 
+![](Avani.jpg)
+
 **Enemy and Level Designer**
 
 I designed all the levels of the game as well as all the enemies and tested and worked closely with the main programmer of the tool used to build the tile-based map. The isometric view and collisions were a headache to approach with this tile-based system but it ended up working. I also built the majority of the levels myself using that same tool from whiteboxing to end product.
 
-![](Avani.jpg)
-
+![](Avani2.jpg)
