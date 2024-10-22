@@ -50,13 +50,14 @@ I designed all the levels of the game as well as all the enemies and tested and 
 
 **AI Lead**
 
-I made all the programming and prototyping that had to do with the Enemies and their AI. I used Unreal Engine blueprint graph to build all the AI as well as the enemy manager and the spawners. During the project I had to redo the backbone of the enemies because of changes to the needs of the game. Although it was hard it made me understand the new Unreal system much better. I had never used graphs for programming before. 
+I did all the programming and prototyping that had to do with the Enemies and their AI. I used Unreal Engine blueprint graph to build all the AI as well as the enemy manager and the spawners. During the project I had to redo the backbone of the enemies because of changes to the needs of the game. Although it was hard it made me understand the new Unreal system much better. I had never used graphs for programming before. 
 
 **UI/UX**
 
-As a two week emergency because a temmate left us hanging I had to program and build the whole UI/UX and Menus of the game two weeks before we had finished the project. Even though it wasn't that pretty I am very proud of being able to make it functional and match all the requirements for the Steam submision.
+As a two week emergency because a teammate left us hanging I had to program and build the whole UI/UX and Menus of the game two weeks before we had finished the project. Even though it wasn't that pretty I am very proud of being able to make it functional and match all the requirements for the Steam submission.
 
 **Level Designer and Builder**
 
-I designed and integrated 2 of the 6 levels in the game. I took care of whiteboxing, decorating, enemy encounters and integrated a lot of objectd to be interactable in the game for decoration.
+I designed and integrated 2 of the 6 levels in the game. I took care of whiteboxing, decorating, enemy encounters and integrated a lot of objects to be interactable in the game for decoration.
+
 
