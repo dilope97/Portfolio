@@ -20,6 +20,7 @@ In my third year at Digipen my team aimed to make a Real-Time Strategy game agai
 
 In the same project I also programmed the A* algorithm used for the soldiers that the players would control. I had to do this with no prior knowledge of the algorithm since I didn't have any prior subject about the matter. This came with many challenges as there were barriers that could open and close (DOORS! O NO!). This meant that while any entity was moving they might need to recompute their path if a door had closed. This was solved by making the doors close slowly and compute the paths and flowfields in a separate thread while the game was running. Within a couple of frames the computation was done but this way we wouldn't have any surprise framerate drops in less powerful PCs.
 
+You can chechk the code in the Grid.cpp and Grid.h in this Github repository. I also added Door.cpp and Door.h to it where I updated the grid when closing and opening doors using multithreading
 
 
 # Project: Avani
