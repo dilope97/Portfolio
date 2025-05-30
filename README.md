@@ -33,7 +33,7 @@ In the second year at Digipen I worked on the game called Avani. This has been t
 
 **Main Character Controller**
 
-I built the main character controller in the early stages of development. Building the base for combat and movement that was later completed by other programmers. I also had to integrate the flying sword that would follow the player, its movement and attacks. In the later stages of development I worked with another programmer designing the attacking feeling that the main character had but couldn't program it myself because I was too busy building and fixing the levels.
+I built the main character controller in the early stages of development. Building the controller for combat and movements. I also had to integrate the flying sword that would follow the player, its movement and attacks. In the later stages of development I worked with another programmer designing the attacking combos for better feeling of the main character controller had but couldn't program it completly myself because I was also busy building, decorating and fixing the levels and enemies.
 
 ![](Avani.jpg)
 
